@@ -1,6 +1,6 @@
 # Hi, I'm Moses Amwoma 👋
 
-**Data Science · ML · Backend Developer** from Kenya 🇰🇪
+**AI · ML · Data Science** from Kenya 🇰🇪 | ♟️ Chess player
 
 <p>
   <a href="https://www.linkedin.com/in/moses-amwoma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
